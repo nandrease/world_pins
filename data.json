@@ -1,0 +1,159 @@
+[
+  { "id": 0, "coords": { "x": 408, "y": 50 } },
+  {
+    "id": 1,
+    "coords": { "x": 352, "y": 62 },
+    "title": { "city": "London", "coords": { "x": 270, "y": 52 }, "left": true }
+  },
+  {
+    "id": 2,
+    "coords": { "x": 160, "y": 97 },
+    "title": { "city": "New York", "coords": { "x": 180, "y": 97 } },
+    "info": {
+      "lastWeek": { "total": 201, "gain": 4.4 },
+      "waitTime": { "time": 9, "gain": 8 },
+      "serviceTime": { "time": 10, "gain": -11.2 }
+    }
+  },
+  {
+    "id": 3,
+    "coords": { "x": 218, "y": 303 },
+    "title": { "city": "Rio", "coords": { "x": 238, "y": 303 } },
+    "info": {
+      "lastWeek": { "total": 901, "gain": 5.2 },
+      "waitTime": { "time": 12, "gain": -3.3 },
+      "serviceTime": { "time": 10, "gain": 21.2 }
+    }
+  },
+  {
+    "id": 4,
+    "coords": { "x": 416, "y": 323 },
+    "title": { "city": "Cape Town", "coords": { "x": 436, "y": 323 } },
+    "info": {
+      "lastWeek": { "total": 301, "gain": -4.4 },
+      "waitTime": { "time": 9, "gain": 8 },
+      "serviceTime": { "time": 10, "gain": -11.2 }
+    }
+  },
+  {
+    "id": 5,
+    "coords": { "x": 715, "y": 109 },
+    "title": { "city": "Tokyo", "coords": { "x": 735, "y": 109 } }
+  },
+  { "id": 6, "coords": { "x": 642, "y": 188 } },
+  { "id": 7, "coords": { "x": 625, "y": 193 } },
+  { "id": 8, "coords": { "x": 639, "y": 232 } },
+  {
+    "id": 9,
+    "coords": { "x": 752, "y": 321 },
+    "title": { "city": "Sydney", "coords": { "x": 772, "y": 311 }, "left": true },
+    "info": {
+      "lastWeek": { "total": 301, "gain": -4.4 },
+      "waitTime": { "time": 9, "gain": 8 },
+      "serviceTime": { "time": 10, "gain": -11.2 }
+    }
+  },
+  {
+    "id": 10,
+    "coords": { "x": 727, "y": 332 },
+    "title": {
+      "city": "Melbourne",
+      "coords": { "x": 747, "y": 358 },
+      "left": true
+    }
+  },
+  { "id": 11, "coords": { "x": 698, "y": 183 } },
+  {
+    "id": 12,
+    "coords": { "x": 383, "y": 67 },
+    "title": { "city": "Berlin", "coords": { "x": 400, "y": 60 } }
+  },
+  {
+    "id": 13,
+    "coords": { "x": 364, "y": 61 },
+    "title": {
+      "city": "Amsterdam",
+      "coords": { "x": 374, "y": 91 },
+      "left": true
+    }
+  },
+  { "id": 14, "coords": { "x": 218, "y": 297 } },
+  { "id": 15, "coords": { "x": 170, "y": 203 } },
+  {
+    "id": 16,
+    "coords": { "x": 43, "y": 136 },
+    "title": { "city": "San Fansisco", "coords": { "x": -70, "y": 136 } },
+    "info": {
+      "lastWeek": { "total": 901, "gain": 5.2 },
+      "waitTime": { "time": 12, "gain": -3.3 },
+      "serviceTime": { "time": 10, "gain": 21.2 }
+    }
+  },
+  {
+    "id": 17,
+    "coords": { "x": 66, "y": 117 },
+    "title": {
+      "city": "Los Angeles",
+      "coords": { "x": 36, "y": 95 },
+      "left": true
+    }
+  },
+  {
+    "id": 18,
+    "coords": { "x": 67, "y": 144 },
+    "title": {
+      "city": "Mexico City",
+      "coords": { "x": 80, "y": 174 },
+      "left": true
+    }
+  },
+  { "id": 19, "coords": { "x": 40, "y": 89 } },
+  { "id": 20, "coords": { "x": 52, "y": 112 } },
+  { "id": 21, "coords": { "x": 108, "y": 90 } },
+  { "id": 22, "coords": { "x": 479, "y": 196 } },
+  { "id": 23, "coords": { "x": 356, "y": 197 } },
+  {
+    "id": 24,
+    "coords": { "x": 483, "y": 70 },
+    "title": { "city": "Moscow", "coords": { "x": 503, "y": 70 } }
+  },
+  { "id": 25, "coords": { "x": 560, "y": 135 } },
+  {
+    "id": 26,
+    "coords": { "x": 570, "y": 156 },
+    "title": { "city": "Dehli", "coords": { "x": 590, "y": 150 } }
+  },
+  { "id": 27, "coords": { "x": 639, "y": 81 } },
+  { "id": 28, "coords": { "x": 635, "y": 121 } },
+  { "id": 29, "coords": { "x": 638, "y": 177 } },
+  {
+    "id": 30,
+    "coords": { "x": 191, "y": 337 },
+    "title": { "city": "Sao Paulo", "coords": { "x": 211, "y": 337 } }
+  },
+  { "id": 31, "coords": { "x": 775, "y": 347 } },
+  { "id": 32, "coords": { "x": 346, "y": 197 } },
+  { "id": 33, "coords": { "x": 437, "y": 101 } },
+  { "id": 34, "coords": { "x": 456, "y": 49 } },
+  { "id": 35, "coords": { "x": 529, "y": 113 } },
+  { "id": 36, "coords": { "x": 187, "y": 65 } },
+  { "id": 37, "coords": { "x": 94, "y": 54 } },
+  { "id": 38, "coords": { "x": 106, "y": 101 } },
+  { "id": 39, "coords": { "x": 161, "y": 309 } },
+  { "id": 40, "coords": { "x": 339, "y": 97 } },
+  { "id": 41, "coords": { "x": 687, "y": 170 } },
+  {
+    "id": 41,
+    "coords": { "x": 145, "y": 109 },
+    "title": { "city": "Philadelphia", "coords": { "x": 155, "y": 129 } }
+  },
+  { "id": 42, "coords": { "x": 119, "y": 101 } },
+  { "id": 43, "coords": { "x": 101, "y": 125 } },
+  { "id": 44, "coords": { "x": 239, "y": 245 } },
+  { "id": 45, "coords": { "x": 425, "y": 61 } },
+  { "id": 46, "coords": { "x": 401, "y": 68 } },
+  { "id": 47, "coords": { "x": 418, "y": 87 } },
+  { "id": 48, "coords": { "x": 390, "y": 95 } },
+  { "id": 49, "coords": { "x": 661, "y": 312 } },
+  { "id": 50, "coords": { "x": 748, "y": 233 } }
+]
