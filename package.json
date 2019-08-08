@@ -1,0 +1,22 @@
+{
+  "name": "world_pins",
+  "version": "1.0.0",
+  "description": "Vanilla Javascript example of locations map",
+  "main": "script.js",
+  "scripts": {
+    "start": "python -m SimpleHTTPServer"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandrease/world_pins.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nandrease/world_pins/issues"
+  },
+  "homepage": "https://github.com/nandrease/world_pins#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}

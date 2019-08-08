@@ -32,7 +32,7 @@ function addPin(loc, id=0, delay=50) {
   pinsLayer.appendChild(node);
 }
 
-function addCityBox(loc,id=0, delay=80) {
+function addCityBox(loc,id=0, delay=100) {
   const { city, coords, left } = loc;
   let node = document.createElement("div");
   node.classList.add("city");
@@ -48,7 +48,7 @@ function addCityBox(loc,id=0, delay=80) {
   cityLayer.appendChild(node);
 }
 
-function addInfoBox(loc, id=0, delay=50) {
+function addInfoBox(loc, id=0, delay=100) {
   const { title, info } = loc;
   let node = document.createElement("div");
   node.classList.add("info");
@@ -130,6 +130,6 @@ function slide3(e) {
   });
 }
 
-kaart.addEventListener("click", nextSlide);
+// kaart.addEventListener("click", nextSlide);
 
 setInterval(function() {nextSlide()}, 5000);
