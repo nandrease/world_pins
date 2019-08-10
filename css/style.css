@@ -1,24 +1,27 @@
 @font-face {
   font-family: "Skolar Sans Latin Web Bold";
-  src: url("assets/fonts/SkolarSansLatnWeb-Bd.eot");
-  src: url("assets/fonts/SkolarSansLatnWeb-Bd.eot?#iefix")
+  src: url("/assets/fonts/SkolarSansLatnWeb-Bd.eot");
+  src: url("/assets/fonts/SkolarSansLatnWeb-Bd.eot?#iefix")
       format("embedded-opentype"),
-    url("assets/fonts/SkolarSansLatnWeb-Bd.woff") format("woff"),
-    url("assets/fonts/SkolarSansLatnWeb-Bd.woff2") format("woff2");
+    url("/assets/fonts/SkolarSansLatnWeb-Bd.woff") format("woff"),
+    url("/assets/fonts/SkolarSansLatnWeb-Bd.woff2") format("woff2");
   font-weight: 700; /* Bold */
   font-style: normal;
 }
 @font-face {
   font-family: "Skolar Sans Latin Web";
-  src: url("assets/fonts/SkolarSansLatnWeb-Lt.eot");
-  src: url("assets/fonts/SkolarSansLatnWeb-Lt.eot?#iefix")
+  src: url("/assets/fonts/SkolarSansLatnWeb-Lt.eot");
+  src: url("/assets/fonts/SkolarSansLatnWeb-Lt.eot?#iefix")
       format("embedded-opentype"),
-    url("assets/fonts/SkolarSansLatnWeb-Lt.woff") format("woff"),
-    url("assets/fonts/SkolarSansLatnWeb-Lt.woff2") format("woff2");
+    url("/assets/fonts/SkolarSansLatnWeb-Lt.woff") format("woff"),
+    url("/assets/fonts/SkolarSansLatnWeb-Lt.woff2") format("woff2");
   font-weight: 300; /* Light */
   font-style: normal;
 }
-
+* {
+  margin: 0;
+  padding: 0;
+}
 body {
   color: #014242;
   margin: 100px;
@@ -68,7 +71,10 @@ h3,
   border-radius: 5px;
   color: #fff;
   font-weight: bold;
-  line-height: 1.1em;
+  line-height: 1em;
+  font-size: 1em;
+  margin: 0;
+  display:flex !important;
 }
 .city.left,
 .info.left {

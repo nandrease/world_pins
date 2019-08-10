@@ -1,13 +1,19 @@
 # world_pins
 
-It's a Vanilla Javascript project so no server configuration needed.
+It's a Vanilla Javascript
+
+## Install
+
+Install dependencies to run in development server
+
+```
+npm install
+```
 
 ## Start project
 
-On python2 server you can run 
+Start project in development server
 
 ```
 npm start
 ```
-
-Any other way use boot local server from the folder.
